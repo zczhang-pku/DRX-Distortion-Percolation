@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this software, analysis workflow, or example data, please cite the work below."
+title: "DRX-Distortion-Percolation"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Zichang
+  - family-names: Feng
+    given-names: Lihua
+  - family-names: Cheng
+    given-names: Jiewei
+  - family-names: Du
+    given-names: Peng-Hu
+  - family-names: Fu
+    given-names: Chu-Liang
+  - family-names: Peng
+    given-names: Jian
+  - family-names: Wang
+    given-names: Shuo
+  - family-names: Xia
+    given-names: Dingguo
+  - family-names: Sun
+    given-names: Xueliang
+  - family-names: Sun
+    given-names: Qiang
+repository-code: "https://github.com/zczhang7/DRX-Distortion-Percolation"
+url: "https://github.com/zczhang7/DRX-Distortion-Percolation"
+keywords:
+  - cation-disordered rocksalt
+  - lattice distortion
+  - lithium-ion transport
+  - percolation
+  - short-range order
+  - materials science
+preferred-citation:
+  type: article
+  title: "Coupling Lattice Distortion and Cation Disorder to Control Li-ion Transport in Cation-Disordered Rocksalt Oxides"
+  authors:
+    - family-names: Zhang
+      given-names: Zichang
+    - family-names: Feng
+      given-names: Lihua
+    - family-names: Cheng
+      given-names: Jiewei
+    - family-names: Du
+      given-names: Peng-Hu
+    - family-names: Fu
+      given-names: Chu-Liang
+    - family-names: Peng
+      given-names: Jian
+    - family-names: Wang
+      given-names: Shuo
+    - family-names: Xia
+      given-names: Dingguo
+    - family-names: Sun
+      given-names: Xueliang
+    - family-names: Sun
+      given-names: Qiang
+  year: 2026
+  journal: "arXiv"
+  volume: "arXiv:2602.11579"
+  doi: "10.48550/arXiv.2602.11579"
+  url: "https://doi.org/10.48550/arXiv.2602.11579"
