@@ -23,8 +23,8 @@ authors:
     given-names: Xueliang
   - family-names: Sun
     given-names: Qiang
-repository-code: "https://github.com/zczhang7/DRX-Distortion-Percolation"
-url: "https://github.com/zczhang7/DRX-Distortion-Percolation"
+repository-code: "https://github.com/zczhang-pku/DRX-Distortion-Percolation"
+url: "https://github.com/zczhang-pku/DRX-Distortion-Percolation"
 keywords:
   - cation-disordered rocksalt
   - lattice distortion
@@ -34,7 +34,7 @@ keywords:
   - materials science
 preferred-citation:
   type: article
-  title: "Coupling Lattice Distortion and Cation Disorder to Control Li-ion Transport in Cation-Disordered Rocksalt Oxides"
+  title: "Interplay of Lattice Distortion and Cation Disorder Governs Li-Ion Transport in Cation-Disordered Rocksalt Cathodes"
   authors:
     - family-names: Zhang
       given-names: Zichang
@@ -46,6 +46,18 @@ preferred-citation:
       given-names: Peng-Hu
     - family-names: Fu
       given-names: Chu-Liang
+    - family-names: Long
+      given-names: Xintao
+    - family-names: Tang
+      given-names: Anchun
+    - family-names: Fan
+      given-names: Longlong
+    - family-names: Dong
+      given-names: Kang
+    - family-names: Wu
+      given-names: Haoyu
+    - family-names: Li
+      given-names: Weihan
     - family-names: Peng
       given-names: Jian
     - family-names: Wang
@@ -57,7 +69,6 @@ preferred-citation:
     - family-names: Sun
       given-names: Qiang
   year: 2026
-  journal: "arXiv"
-  volume: "arXiv:2602.11579"
-  doi: "10.48550/arXiv.2602.11579"
-  url: "https://doi.org/10.48550/arXiv.2602.11579"
+  journal: "Journal of the American Chemical Society"
+  doi: "10.1021/jacs.6c05378"
+  url: "https://doi.org/10.1021/jacs.6c05378"

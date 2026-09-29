@@ -168,16 +168,16 @@ These are the only active CHGNet capabilities. CHGNet Monte Carlo and graph-gene
 
 If you use the DRX–Distortion–Percolation analysis, data, or methodology in this repository, please cite:
 
-> Zichang Zhang, Lihua Feng, Jiewei Cheng, Peng-Hu Du, Chu-Liang Fu, Jian Peng, Shuo Wang, Dingguo Xia, Xueliang Sun, and Qiang Sun. **Coupling Lattice Distortion and Cation Disorder to Control Li-ion Transport in Cation-Disordered Rocksalt Oxides.** *arXiv* (2026), arXiv:2602.11579 [cond-mat.mtrl-sci]. https://doi.org/10.48550/arXiv.2602.11579
+> Zichang Zhang, Lihua Feng, Jiewei Cheng, Peng-Hu Du, Chu-Liang Fu, Xintao Long, Anchun Tang, Longlong Fan, Kang Dong, Haoyu Wu, Weihan Li, Jian Peng, Shuo Wang, Dingguo Xia, Xueliang Sun, and Qiang Sun. **Interplay of Lattice Distortion and Cation Disorder Governs Li-Ion Transport in Cation-Disordered Rocksalt Cathodes.** *Journal of the American Chemical Society* (2026). https://doi.org/10.1021/jacs.6c05378
 
 ```bibtex
-@article{zhang2026coupling,
-  title   = {Coupling Lattice Distortion and Cation Disorder to Control Li-ion Transport in Cation-Disordered Rocksalt Oxides},
-  author  = {Zhang, Zichang and Feng, Lihua and Cheng, Jiewei and Du, Peng-Hu and Fu, Chu-Liang and Peng, Jian and Wang, Shuo and Xia, Dingguo and Sun, Xueliang and Sun, Qiang},
-  journal = {arXiv preprint arXiv:2602.11579},
+@article{zhang2026interplay,
+  title   = {Interplay of Lattice Distortion and Cation Disorder Governs {Li-Ion} Transport in Cation-Disordered Rocksalt Cathodes},
+  author  = {Zhang, Zichang and Feng, Lihua and Cheng, Jiewei and Du, Peng-Hu and Fu, Chu-Liang and Long, Xintao and Tang, Anchun and Fan, Longlong and Dong, Kang and Wu, Haoyu and Li, Weihan and Peng, Jian and Wang, Shuo and Xia, Dingguo and Sun, Xueliang and Sun, Qiang},
+  journal = {Journal of the American Chemical Society},
   year    = {2026},
-  doi     = {10.48550/arXiv.2602.11579},
-  url     = {https://doi.org/10.48550/arXiv.2602.11579}
+  doi     = {10.1021/jacs.6c05378},
+  url     = {https://doi.org/10.1021/jacs.6c05378}
 }
 ```
 
